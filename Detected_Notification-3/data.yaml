@@ -1,0 +1,14 @@
+names:
+- button
+- site
+- system
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: detected_notification
+  url: https://universe.roboflow.com/detected-notification/detected_notification/dataset/3
+  version: 3
+  workspace: detected-notification
+test: ../test/images
+train: ../train/images
+val: ../valid/images
